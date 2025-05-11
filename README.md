@@ -37,7 +37,9 @@ Make sure you have Python and Pygame installed:
 
 ```bash
 pip install pygame
-
-Run the game
-python main.py
-
+pip install chess
+pip install os
+pip install time
+pip install random
+pip install math
+pip install threading
